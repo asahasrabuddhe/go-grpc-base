@@ -1,8 +1,8 @@
 package server
 
 import (
-	"bitbucket.org/ajitem_s/go-grpc-baseabase"
-	"bitbucket.org/ajitem_s/go-grpc-basel"
+	"bitbucket.org/ajitem_s/go-grpc-base/database"
+	"bitbucket.org/ajitem_s/go-grpc-base/mail"
 	"fmt"
 	"github.com/spf13/viper"
 	"google.golang.org/grpc"
